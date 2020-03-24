@@ -3,5 +3,5 @@ applications:
   random-route: true
   memory: 128M
   buildpack: sdk-for-nodejs
-  services:
+  services: Internet of Things Platform-7c
   - IOT PLATFORM NAME
